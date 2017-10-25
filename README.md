@@ -12,5 +12,6 @@
 - זאיר
 - בורונדי
 - טנזניה
-![Image of github's cat](/images/hipo_image.png)
+
+![Image of hipo](/images/hipo_image.jpg)
 
