@@ -15,3 +15,7 @@
 
 ![Image of hipo](/images/hipo_image.jpg)
 
+זנים | species
+-------|--------
+היפופוטם | Hippopotamus
+היפופוטם גמדי | Pygmy hippopotamus
